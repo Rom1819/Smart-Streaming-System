@@ -1,0 +1,20 @@
+﻿<Window x:Class="SSS.RecordWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Smart Streaming System - Improve Your Listening Skill Smartly" Background="#FFFFB05F" Foreground="DarkGreen"
+        Loaded="Window_Loaded" WindowState="Normal" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Closing="Window_Closing" Topmost="True" KeyDown="Window_KeyDown" Height="225.464" Width="477.571">
+    <Grid>
+        
+        <TextBlock Margin="78,26,78,0" TextWrapping="Wrap" FontFamily="Consolas" TextDecorations="" TextAlignment="Center" Height="43" VerticalAlignment="Top">
+            <TextBlock.ContextMenu>
+                <ContextMenu FontFamily="Consolas"/>
+            </TextBlock.ContextMenu><Run FontSize="21.333" FontFamily="Segoe WP Black" Text="Record As Audio"/></TextBlock>
+        <TextBlock x:Name="tbTime" FontFamily="Segoe WP Semibold" TextAlignment="Center" VerticalAlignment="Center" TextWrapping="Wrap" Margin="157,74,166,87" Width="149" Height="30">0:00:00.000</TextBlock>
+        <Button x:Name="btRecord" Content="Record" Foreground="DarkGreen" Height="29" HorizontalAlignment="Left" Margin="78,126,0,0" VerticalAlignment="Top" Width="98" Click="btRecord_Click" />
+        <Button x:Name="btStop" Content="Stop" Foreground="DarkGreen" Height="29" HorizontalAlignment="Left" Margin="292,126,0,0" VerticalAlignment="Top" Width="102" Click="btStop_Click" >
+            <Button.ContextMenu>
+                <ContextMenu FontFamily="Consolas"/>
+            </Button.ContextMenu>
+        </Button>
+    </Grid>
+</Window>

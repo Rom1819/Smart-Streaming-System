@@ -1,0 +1,18 @@
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Release\UPNPAV_RendererStack.dll
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Release\UPnP.dll
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Release\UPNPAVCDSML.dll
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Release\UPNP_AV.dll
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\obj\Release\UPnPAV_RendererStack.csprojResolveAssemblyReference.cache
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\obj\Release\UPNPAV_RendererStack.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Release\UPNPAV_RendererStack.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Release\UPnP.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Release\UPNPAVCDSML.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Release\UPNP_AV.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\obj\Release\UPnPAV_RendererStack.csprojResolveAssemblyReference.cache
+R:\RONCH\Desktop app\Smart Streaming System\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\obj\Release\UPNPAV_RendererStack.dll
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Release\UPNPAV_RendererStack.dll
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Release\UPnP.dll
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Release\UPNPAVCDSML.dll
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Release\UPNP_AV.dll
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\obj\Release\UPnPAV_RendererStack.csprojResolveAssemblyReference.cache
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\obj\Release\UPNPAV_RendererStack.dll

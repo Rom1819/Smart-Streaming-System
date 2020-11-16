@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#AF8066"
+    android:orientation="vertical"
+    tools:context=".Help">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:layout_margin="@dimen/activity_horizontal_margin"
+                android:src="@drawable/sss" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textSize="20sp"
+                android:textColor="#FFD581"
+                android:background="#A68A7A"
+                android:text="1. At first click on “Login” button."
+                android:editable="false"
+                tools:ignore="Deprecated" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textSize="20sp"
+                android:textColor="#FFD581"
+                android:background="#A68A7A"
+                android:text=" 2. Fill up the login form with required information."
+                android:editable="false"
+                tools:ignore="Deprecated" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textSize="20sp"
+                android:textColor="#FFD581"
+                android:background="#A68A7A"
+                android:text=" 3. Press the “Submit” button."
+                android:editable="false"
+                tools:ignore="Deprecated" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textSize="20sp"
+                android:textColor="#FFD581"
+                android:background="#A68A7A"
+                android:text="4. Enter the IP address and press “Connect”."
+                android:editable="false"
+                tools:ignore="Deprecated" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textSize="20sp"
+                android:textColor="#FFD581"
+                android:background="#A68A7A"
+                android:text="5. Then Press “Send Request” button to request the Server."
+                android:editable="false"
+                tools:ignore="Deprecated" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textSize="20sp"
+                android:textColor="#FFD581"
+                android:background="#A68A7A"
+                android:text="6. Wait for approval message and then press on “Ready” button."
+                android:editable="false"
+                tools:ignore="Deprecated" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textSize="20sp"
+                android:textColor="#FFD581"
+                android:background="#A68A7A"
+                android:text="7. Finally, press “Play” to play the audio."
+                android:editable="false"
+                tools:ignore="Deprecated" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textSize="20sp"
+                android:textColor="#FFD581"
+                android:background="#A68A7A"
+                android:text="N.B.: Make sure, both PC and Phone are connected on same WIFI connection."
+                android:editable="false"
+                tools:ignore="Deprecated" />
+
+            <Button
+                android:id="@+id/btnBack"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="30dp"
+                android:text="Back"
+                android:textColor="#FFD581"
+                android:textSize="30sp"
+                android:onClick="back"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

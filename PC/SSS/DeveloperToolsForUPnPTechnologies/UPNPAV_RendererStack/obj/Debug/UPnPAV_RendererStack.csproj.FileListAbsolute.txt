@@ -1,0 +1,33 @@
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Debug\UPNPAV_RendererStack.dll
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Debug\UPNPAV_RendererStack.pdb
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Debug\UPnP.dll
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Debug\UPNPAVCDSML.dll
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Debug\UPNP_AV.dll
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Debug\UPnP.pdb
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Debug\UPNP_AV.pdb
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Debug\UPNPAVCDSML.pdb
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\obj\Debug\UPnPAV_RendererStack.csprojResolveAssemblyReference.cache
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\obj\Debug\UPNPAV_RendererStack.dll
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\obj\Debug\UPNPAV_RendererStack.pdb
+R:\RONCH\Desktop app\Smart Streaming System\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Debug\UPNPAV_RendererStack.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Debug\UPNPAV_RendererStack.pdb
+R:\RONCH\Desktop app\Smart Streaming System\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Debug\UPnP.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Debug\UPNPAVCDSML.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Debug\UPNP_AV.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Debug\UPnP.pdb
+R:\RONCH\Desktop app\Smart Streaming System\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Debug\UPNP_AV.pdb
+R:\RONCH\Desktop app\Smart Streaming System\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Debug\UPNPAVCDSML.pdb
+R:\RONCH\Desktop app\Smart Streaming System\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\obj\Debug\UPnPAV_RendererStack.csprojResolveAssemblyReference.cache
+R:\RONCH\Desktop app\Smart Streaming System\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\obj\Debug\UPNPAV_RendererStack.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\obj\Debug\UPNPAV_RendererStack.pdb
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Debug\UPNPAV_RendererStack.dll
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Debug\UPNPAV_RendererStack.pdb
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Debug\UPnP.dll
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Debug\UPNPAVCDSML.dll
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Debug\UPNP_AV.dll
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Debug\UPnP.pdb
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Debug\UPNP_AV.pdb
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\bin\Debug\UPNPAVCDSML.pdb
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\obj\Debug\UPnPAV_RendererStack.csprojResolveAssemblyReference.cache
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\obj\Debug\UPNPAV_RendererStack.dll
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPNPAV_RendererStack\obj\Debug\UPNPAV_RendererStack.pdb

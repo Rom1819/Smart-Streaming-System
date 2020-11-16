@@ -1,0 +1,61 @@
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\bin\Release\libmp3lame.32.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\bin\Release\libmp3lame.64.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\bin\Release\SSS.exe
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\bin\Release\SSS.pdb
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\bin\Release\NAudio.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\bin\Release\NAudio.Lame.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\bin\Release\UPnP.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\bin\Release\UPNPAVCDSML.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\bin\Release\UPNPAV_RendererStack.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\bin\Release\UPNP_AV.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\bin\Release\NAudio.xml
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Release\SSS.csprojResolveAssemblyReference.cache
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Release\Windows\AboutWindow.baml
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Release\Windows\HTTPLiveStreamWindow.baml
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Release\Windows\RecordWindow.baml
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Release\Windows\SettingsWindow.baml
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Release\Windows\AboutWindow.g.cs
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Release\Windows\HTTPLiveStreamWindow.g.cs
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Release\Windows\RecordWindow.g.cs
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Release\Windows\SettingsWindow.g.cs
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Release\App.g.cs
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Release\SSS_Content.g.cs
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Release\SSS_MarkupCompile.cache
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Release\SSS.g.resources
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Release\SSS.Properties.Resources.resources
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Release\SSS.csproj.GenerateResource.Cache
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Release\SSS.exe
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Release\SSS.pdb
+R:\SSS Modifying\SSS\SSS\bin\Release\SSS.exe.config
+R:\SSS Modifying\SSS\SSS\obj\Release\SSS.exe
+R:\SSS Modifying\SSS\SSS\obj\Release\SSS.pdb
+R:\SSS Modifying\SSS\SSS\bin\Release\libmp3lame.32.dll
+R:\SSS Modifying\SSS\SSS\bin\Release\libmp3lame.64.dll
+R:\SSS Modifying\SSS\SSS\bin\Release\SSS.exe
+R:\SSS Modifying\SSS\SSS\bin\Release\SSS.pdb
+R:\SSS Modifying\SSS\SSS\bin\Release\NAudio.dll
+R:\SSS Modifying\SSS\SSS\bin\Release\NAudio.Lame.dll
+R:\SSS Modifying\SSS\SSS\bin\Release\UPnP.dll
+R:\SSS Modifying\SSS\SSS\bin\Release\UPNPAVCDSML.dll
+R:\SSS Modifying\SSS\SSS\bin\Release\UPNPAV_RendererStack.dll
+R:\SSS Modifying\SSS\SSS\bin\Release\UPNP_AV.dll
+R:\SSS Modifying\SSS\SSS\bin\Release\NAudio.xml
+R:\SSS Modifying\SSS\SSS\obj\Release\SSS.csprojResolveAssemblyReference.cache
+R:\SSS Modifying\SSS\SSS\obj\Release\Windows\AboutWindow.baml
+R:\SSS Modifying\SSS\SSS\obj\Release\Windows\RecordWindow.baml
+R:\SSS Modifying\SSS\SSS\obj\Release\Windows\SettingsWindow.baml
+R:\SSS Modifying\SSS\SSS\obj\Release\Windows\AboutWindow.g.cs
+R:\SSS Modifying\SSS\SSS\obj\Release\Windows\RecordWindow.g.cs
+R:\SSS Modifying\SSS\SSS\obj\Release\Windows\SettingsWindow.g.cs
+R:\SSS Modifying\SSS\SSS\obj\Release\App.g.cs
+R:\SSS Modifying\SSS\SSS\obj\Release\SSS_Content.g.cs
+R:\SSS Modifying\SSS\SSS\obj\Release\SSS_MarkupCompile.cache
+R:\SSS Modifying\SSS\SSS\obj\Release\SSS.g.resources
+R:\SSS Modifying\SSS\SSS\obj\Release\SSS.Properties.Resources.resources
+R:\SSS Modifying\SSS\SSS\obj\Release\SSS.csproj.GenerateResource.Cache
+R:\SSS Modifying\SSS\SSS\obj\Release\Interop.WMPLib.dll
+R:\SSS Modifying\SSS\SSS\obj\Release\AxInterop.WMPLib.dll
+R:\SSS Modifying\SSS\SSS\obj\Release\SSS.csproj.ResolveComReference.cache
+R:\SSS Modifying\SSS\SSS\bin\Release\Interop.WMPLib.dll
+R:\SSS Modifying\SSS\SSS\bin\Release\AxInterop.WMPLib.dll
+R:\SSS Modifying\SSS\SSS\obj\Release\SSS.frm_Server.resources

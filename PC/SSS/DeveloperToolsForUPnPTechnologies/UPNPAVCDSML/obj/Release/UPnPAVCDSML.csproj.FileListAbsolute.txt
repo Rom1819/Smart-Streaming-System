@@ -1,0 +1,12 @@
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\bin\Release\UPNPAVCDSML.dll
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\bin\Release\UPnP.dll
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\obj\Release\UPnPAVCDSML.csprojResolveAssemblyReference.cache
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\obj\Release\UPNPAVCDSML.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\bin\Release\UPNPAVCDSML.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\bin\Release\UPnP.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\obj\Release\UPnPAVCDSML.csprojResolveAssemblyReference.cache
+R:\RONCH\Desktop app\Smart Streaming System\SSS\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\obj\Release\UPNPAVCDSML.dll
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\bin\Release\UPNPAVCDSML.dll
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\bin\Release\UPnP.dll
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\obj\Release\UPnPAVCDSML.csprojResolveAssemblyReference.cache
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\obj\Release\UPNPAVCDSML.dll

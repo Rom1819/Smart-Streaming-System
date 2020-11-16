@@ -1,0 +1,21 @@
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\bin\Debug\UPNPAVCDSML.dll
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\bin\Debug\UPNPAVCDSML.pdb
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\bin\Debug\UPnP.dll
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\bin\Debug\UPnP.pdb
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\obj\Debug\UPnPAVCDSML.csprojResolveAssemblyReference.cache
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\obj\Debug\UPNPAVCDSML.dll
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\obj\Debug\UPNPAVCDSML.pdb
+R:\RONCH\Desktop app\Smart Streaming System\SSS\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\bin\Debug\UPNPAVCDSML.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\bin\Debug\UPNPAVCDSML.pdb
+R:\RONCH\Desktop app\Smart Streaming System\SSS\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\bin\Debug\UPnP.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\bin\Debug\UPnP.pdb
+R:\RONCH\Desktop app\Smart Streaming System\SSS\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\obj\Debug\UPnPAVCDSML.csprojResolveAssemblyReference.cache
+R:\RONCH\Desktop app\Smart Streaming System\SSS\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\obj\Debug\UPNPAVCDSML.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\obj\Debug\UPNPAVCDSML.pdb
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\bin\Debug\UPNPAVCDSML.dll
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\bin\Debug\UPNPAVCDSML.pdb
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\bin\Debug\UPnP.dll
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\bin\Debug\UPnP.pdb
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\obj\Debug\UPnPAVCDSML.csprojResolveAssemblyReference.cache
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\obj\Debug\UPNPAVCDSML.dll
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPNPAVCDSML\obj\Debug\UPNPAVCDSML.pdb

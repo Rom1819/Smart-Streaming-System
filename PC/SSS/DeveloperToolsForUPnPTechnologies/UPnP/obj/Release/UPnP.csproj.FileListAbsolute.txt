@@ -1,0 +1,16 @@
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPnP\bin\Release\UPnP.dll
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPnP\obj\Release\UPnP.csprojResolveAssemblyReference.cache
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPnP\obj\Release\OpenSource.UPnP.AutoUpdate.resources
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPnP\obj\Release\OpenSource.Utilities.ExceptionForm.resources
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPnP\obj\Release\OpenSource.Utilities.InstanceTracker.resources
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPnP\obj\Release\OpenSource.Utilities.InstanceTracker2.resources
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPnP\obj\Release\UPnP.csproj.GenerateResource.Cache
+R:\Demo\SWYH-master\DeveloperToolsForUPnPTechnologies\UPnP\obj\Release\UPnP.dll
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPnP\bin\Release\UPnP.dll
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPnP\obj\Release\UPnP.csprojResolveAssemblyReference.cache
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPnP\obj\Release\OpenSource.UPnP.AutoUpdate.resources
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPnP\obj\Release\OpenSource.Utilities.ExceptionForm.resources
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPnP\obj\Release\OpenSource.Utilities.InstanceTracker.resources
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPnP\obj\Release\OpenSource.Utilities.InstanceTracker2.resources
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPnP\obj\Release\UPnP.csproj.GenerateResource.Cache
+R:\SSS Modifying\SSS\DeveloperToolsForUPnPTechnologies\UPnP\obj\Release\UPnP.dll

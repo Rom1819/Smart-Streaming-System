@@ -1,0 +1,70 @@
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Debug\SSS.csprojResolveAssemblyReference.cache
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Debug\Windows\AboutWindow.baml
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Debug\Windows\HTTPLiveStreamWindow.baml
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Debug\Windows\RecordWindow.baml
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Debug\Windows\SettingsWindow.baml
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Debug\Windows\AboutWindow.g.cs
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Debug\Windows\HTTPLiveStreamWindow.g.cs
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Debug\Windows\RecordWindow.g.cs
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Debug\Windows\SettingsWindow.g.cs
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Debug\App.g.cs
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Debug\SSS_Content.g.cs
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Debug\SSS_MarkupCompile.cache
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Debug\SSS.g.resources
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Debug\SSS.Properties.Resources.resources
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Debug\SSS.csproj.GenerateResource.Cache
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\bin\Debug\libmp3lame.32.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\bin\Debug\libmp3lame.64.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\bin\Debug\SSS.exe
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\bin\Debug\SSS.pdb
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\bin\Debug\NAudio.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\bin\Debug\NAudio.Lame.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\bin\Debug\UPnP.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\bin\Debug\UPNPAVCDSML.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\bin\Debug\UPNPAV_RendererStack.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\bin\Debug\UPNP_AV.dll
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\bin\Debug\UPNPAVCDSML.pdb
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\bin\Debug\UPNPAV_RendererStack.pdb
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\bin\Debug\UPnP.pdb
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\bin\Debug\NAudio.xml
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\bin\Debug\UPNP_AV.pdb
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Debug\SSS.exe
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\obj\Debug\SSS.pdb
+R:\RONCH\Desktop app\Smart Streaming System\SSS\SSS\bin\Debug\SSS.exe.config
+R:\SSS Modifying\SSS\SSS\bin\Debug\SSS.exe.config
+R:\SSS Modifying\SSS\SSS\obj\Debug\SSS.exe
+R:\SSS Modifying\SSS\SSS\obj\Debug\SSS.pdb
+R:\SSS Modifying\SSS\SSS\obj\Debug\SSS.csprojResolveAssemblyReference.cache
+R:\SSS Modifying\SSS\SSS\obj\Debug\Windows\RecordWindow.baml
+R:\SSS Modifying\SSS\SSS\obj\Debug\Windows\SettingsWindow.baml
+R:\SSS Modifying\SSS\SSS\obj\Debug\Windows\RecordWindow.g.cs
+R:\SSS Modifying\SSS\SSS\obj\Debug\Windows\SettingsWindow.g.cs
+R:\SSS Modifying\SSS\SSS\obj\Debug\App.g.cs
+R:\SSS Modifying\SSS\SSS\obj\Debug\SSS_Content.g.cs
+R:\SSS Modifying\SSS\SSS\obj\Debug\SSS_MarkupCompile.cache
+R:\SSS Modifying\SSS\SSS\obj\Debug\SSS.g.resources
+R:\SSS Modifying\SSS\SSS\obj\Debug\SSS.Properties.Resources.resources
+R:\SSS Modifying\SSS\SSS\obj\Debug\SSS.csproj.GenerateResource.Cache
+R:\SSS Modifying\SSS\SSS\bin\Debug\libmp3lame.32.dll
+R:\SSS Modifying\SSS\SSS\bin\Debug\libmp3lame.64.dll
+R:\SSS Modifying\SSS\SSS\bin\Debug\SSS.exe
+R:\SSS Modifying\SSS\SSS\bin\Debug\SSS.pdb
+R:\SSS Modifying\SSS\SSS\bin\Debug\NAudio.dll
+R:\SSS Modifying\SSS\SSS\bin\Debug\NAudio.Lame.dll
+R:\SSS Modifying\SSS\SSS\bin\Debug\UPnP.dll
+R:\SSS Modifying\SSS\SSS\bin\Debug\UPNPAVCDSML.dll
+R:\SSS Modifying\SSS\SSS\bin\Debug\UPNPAV_RendererStack.dll
+R:\SSS Modifying\SSS\SSS\bin\Debug\UPNP_AV.dll
+R:\SSS Modifying\SSS\SSS\bin\Debug\UPNPAVCDSML.pdb
+R:\SSS Modifying\SSS\SSS\bin\Debug\UPNPAV_RendererStack.pdb
+R:\SSS Modifying\SSS\SSS\bin\Debug\UPnP.pdb
+R:\SSS Modifying\SSS\SSS\bin\Debug\UPNP_AV.pdb
+R:\SSS Modifying\SSS\SSS\bin\Debug\NAudio.xml
+R:\SSS Modifying\SSS\SSS\bin\Debug\Interop.WMPLib.dll
+R:\SSS Modifying\SSS\SSS\bin\Debug\AxInterop.WMPLib.dll
+R:\SSS Modifying\SSS\SSS\obj\Debug\Interop.WMPLib.dll
+R:\SSS Modifying\SSS\SSS\obj\Debug\AxInterop.WMPLib.dll
+R:\SSS Modifying\SSS\SSS\obj\Debug\SSS.csproj.ResolveComReference.cache
+R:\SSS Modifying\SSS\SSS\obj\Debug\SSS.frm_Server.resources
+R:\SSS Modifying\SSS\SSS\obj\Debug\SSS.Windows.Help.resources
+R:\SSS Modifying\SSS\SSS\obj\Debug\SSS.Windows.AboutWindow.resources
